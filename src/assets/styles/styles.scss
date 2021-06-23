@@ -22,7 +22,19 @@ body {
   justify-content: center;
   align-items: center;
 }
-
+.padding10 {
+  padding: 10px;
+}
 .full-width {
   width: 100%;
+}
+.quebrarLinha {
+  white-space: pre-line;
+}
+.float-left {
+  float: left;
+}
+
+.margin10 {
+  margin: 10px;
 }
